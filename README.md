@@ -2,7 +2,7 @@
 
 ## About
 
-Play tic-tac-toe with a friend!
+A calculator... but it's text.
 
 ## How to Run
 
